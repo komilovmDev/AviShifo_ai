@@ -132,7 +132,7 @@ export default function Component2() {
             </div>
           </div>
         </div>
-        <div className="flex flex-col">
+        <div className="flex flex-col mt-5">
           <div className="flex-1 max-w-2xl gap-8 px-4 mx-auto">
             <div className="flex items-start gap-4">
               <Avatar className="w-6 h-6 border">

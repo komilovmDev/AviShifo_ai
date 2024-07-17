@@ -4,7 +4,9 @@ import Component from '../components/component2/Component';
 export default function Home() {
   return (
     <>
-      <Component />
+      <div className='w-8/12 mx-auto'>
+        <Component />
+      </div>
     </>
   );
 }
