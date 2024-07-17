@@ -1,2 +1,2 @@
 # AviShifo_ai
-AviShifo ai chat bot
+AviShifo ai chat bot typeScript
